@@ -20,8 +20,7 @@ sudo reboot
 
 ### Run Setup Script:
 
-Copy the script to the VM and run it by using a mount.
-Runs and installs the following:
+`setup.sh`: Runs and installs the following:
 
 - `snap`, `homebrew`, `gcc`, `build-essential`
 - `inconsolata font`, `starship prompt`
@@ -33,6 +32,12 @@ Runs and installs the following:
 
 ```
 ./setup.sh
+```
+
+Or get and run directly from GitHub repo:
+
+```
+bash <(curl -s https://raw.githubusercontent.com/matthewgoodman13/vm-setup-scripts/main/setup.sh)
 ```
 
 ### Setup VSCode Tunneling:
