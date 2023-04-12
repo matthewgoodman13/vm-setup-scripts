@@ -49,3 +49,9 @@ bash <(curl -s https://raw.githubusercontent.com/matthewgoodman13/vm-setup-scrip
 ```
 code tunnel --accept-server-license-terms
 ```
+
+- Update Font for host VSCode by adding to settings JSON:
+
+```
+  "terminal.integrated.fontFamily": "InconsolataLGC Nerd Font Mono",
+```
