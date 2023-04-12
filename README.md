@@ -20,7 +20,7 @@ sudo reboot
 
 ### Run Setup Script:
 
-`setup.sh`: Runs and installs the following:
+`setup.sh`: Runs and installs the following (in 5-10mins):
 
 - `snap`, `homebrew`, `gcc`, `build-essential`
 - `inconsolata font`, `starship prompt`
