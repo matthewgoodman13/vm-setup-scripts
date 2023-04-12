@@ -37,7 +37,7 @@ sudo reboot
 Or get and run directly from GitHub repo:
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/matthewgoodman13/vm-setup-scripts/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/matthewgoodman13/vm-setup-scripts/master/setup.sh)
 ```
 
 ### Setup VSCode Tunneling:
