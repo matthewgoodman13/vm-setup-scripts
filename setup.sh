@@ -107,3 +107,6 @@ nvm install lts/hydrogen
 
 echo "Installing NodeJS..."
 sudo apt install nodejs -y
+
+# Source .bashrc
+source ~/.bashrc
